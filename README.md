@@ -16,7 +16,6 @@ I'm a frontend developer with a desire to gain more experience and share my curr
 *  Email: [mikhailryamov@gmail.com](mailto:mikhailryamov@gmail.com )
 *  Telegram: [@MikhailRyam](https://telegram.me/MikhailRyam )
 
-<br>
 
 ### ✨ Skills 
 <p align="left">
