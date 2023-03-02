@@ -8,16 +8,17 @@ I'm a frontend developer with a desire to gain more experience and share my curr
 *   🤝  I'm open to collaborating on interesting projects
 *   🔭  I'm open to work, remote or Moscow
 
-### My [CV](https://drive.google.com/file/d/1iH4YQP_6pL0aFRYdgValIA4LIRORWRak/view?usp=share_link )
+### 🌱 My [CV](https://drive.google.com/file/d/1iH4YQP_6pL0aFRYdgValIA4LIRORWRak/view?usp=share_link "My CV")
+
 
 
 ### 📫 How to reach me:
 *  Email: [mikhailryamov@gmail.com](mailto:mikhailryamov@gmail.com )
 *  Telegram: [@MikhailRyam](https://telegram.me/MikhailRyam )
 
+<br>
 
-
-### Skills 
+### ✨ Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -35,6 +36,8 @@ I'm a frontend developer with a desire to gain more experience and share my curr
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
+
+<br>
 
 <a href="https://github.com/MikRyam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikRyam&hide=python&layout=compact&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=202f31&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
