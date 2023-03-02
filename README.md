@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mikhail 
-==========================================================================================================================================
+### Hi! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> I'm Mikhail!
 
-Frontend Developer
-------------------
 
-I'm a web developer
+I'm a Frontend developer with a desire to gain more experience and share my current knowledge to the benefit of the common deal. I have good knowledge of JavaScript, TypeScript, React, Redux, RTK Query, HTML, SCSS, Stylus, Figma. My passion is to create beautiful modern responsive websites and web applications.
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [mikhailryamov@gmail.com](mailto:mikhailryamov@gmail.com )
 *   🧠  I'm learning Next.js
 *   🤝  I'm open to collaborating on interesting projects
+#### 📫 How to reach me:
+*  Email: [mikhailryamov@gmail.com](mailto:mikhailryamov@gmail.com )
+*  Telegram: [@MikhailRyam](https://telegram.me/MikhailRyam )
 
 ### Skills 
 <p align="left">
