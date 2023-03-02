@@ -4,7 +4,6 @@
 I'm a frontend developer with a desire to gain more experience and share my current knowledge to the benefit of the common deal. I have good knowledge of JavaScript, TypeScript, React, Redux, RTK Query, HTML, SCSS, Stylus, Figma. My passion is to create beautiful modern responsive websites and web applications.
 
 
-*   🌍  I'm based in Moscow
 *   🤝  I'm open to collaborating on interesting projects
 *   🔭  I'm open to work, remote or Moscow
 
@@ -61,6 +60,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+*   🌍  I'm based in Moscow
 
 *   ✉️  You can contact me at [mikhailryamov@gmail.com](mailto:mikhailryamov@gmail.com )
 -->
