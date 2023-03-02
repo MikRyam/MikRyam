@@ -9,7 +9,9 @@ I'm a web developer
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [mikhailryamov@gmail.com](mailto:mikhailryamov@gmail.com )
 *   🧠  I'm learning Next.js
-*   🤝  I'm open to collaborating on interesting projects### Skills 
+*   🤝  I'm open to collaborating on interesting projects
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -31,16 +33,19 @@ I'm a web developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/MikRyam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/MikRyam"><img src="https://github-readme-stats.vercel.app/api?username=MikRyam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="MikRyam's GitHub stats" /></a><a
+### Socials
+<p align="left">
+<a href="https://www.github.com/MikRyam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+
+### Badges
+<b>My GitHub Stats</b>
+<a href="http://www.github.com/MikRyam"><img src="https://github-readme-stats.vercel.app/api?username=MikRyam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="MikRyam's GitHub stats" /></a><a
                       href="http://www.github.com/MikRyam"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=MikRyam&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/MikRyam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikRyam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/MikRyam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=MikRyam&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/MikRyam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikRyam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                  
+### Support Me
+<a href="https://www.buymeacoffee.com/MikRyam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ### Hi there 👋
 
