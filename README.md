@@ -1,14 +1,7 @@
 ## Hi! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> I'm Mikhail!
 
 
-I'm a frontend developer with a desire to gain more experience and share my current knowledge to the benefit of the common deal. I have good knowledge of JavaScript, TypeScript, React, Redux, RTK Query, HTML, SCSS, Stylus, Figma. My passion is to create beautiful modern responsive websites and web applications.
-
-
-*   🤝  I'm open to collaborating on interesting projects
-*   🔭  I'm open to work, remote or Moscow
-
-### 🌱 My [CV](https://drive.google.com/file/d/1iH4YQP_6pL0aFRYdgValIA4LIRORWRak/view?usp=share_link "My CV")
-
+I'm a frontend developer. I have good knowledge of JavaScript, TypeScript, React, Redux, RTK Query, HTML, SCSS, Stylus, Figma. My passion is to create beautiful modern responsive websites and web applications.
 
 
 ### 📫 How to reach me:
@@ -63,4 +56,13 @@ Here are some ideas to get you started:
 *   🌍  I'm based in Moscow
 
 *   ✉️  You can contact me at [mikhailryamov@gmail.com](mailto:mikhailryamov@gmail.com )
+
+I'm a frontend developer with a desire to gain more experience and share my current knowledge to the benefit of the common deal. I have good knowledge of JavaScript, TypeScript, React, Redux, RTK Query, HTML, SCSS, Stylus, Figma. My passion is to create beautiful modern responsive websites and web applications.
+
+
+*   🤝  I'm open to collaborating on interesting projects
+*   🔭  I'm open to work, remote or Moscow
+
+### 🌱 My [CV](https://drive.google.com/file/d/1iH4YQP_6pL0aFRYdgValIA4LIRORWRak/view?usp=share_link "My CV")
+
 -->
